@@ -8,6 +8,9 @@
   <a href="https://github.com/venkatesh7975">
     <img src="https://img.shields.io/github/followers/venkatesh7975?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="GitHub Followers" />
   </a>
+  <a href="https://linkedin.com/in/venkateshmoyya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://discord.gg/56hcFum4">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -22,6 +25,7 @@ I am a Full Stack Developer from India 🇮🇳 with a strong technical backgrou
 - 🔭 I’m currently working on advanced React applications and Node.js backend systems.
 - 🌱 I’m continually leveling up my skills in **TypeScript**, cloud-native deployment, and system design.
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, and UI/UX best practices**.
+- 🤝 Connect with me on LinkedIn: [venkateshmoyya](https://linkedin.com/in/venkateshmoyya)
 - 📫 Meet me on Discord: [Join my Server](https://discord.gg/56hcFum4)
 
 ---
