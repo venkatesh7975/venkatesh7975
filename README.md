@@ -54,59 +54,16 @@
 ### Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=venkatesh7975&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&count_private=true" width="100%" alt="Global Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh7975&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh7975&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 ### Featured Engineering
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/venkatesh7975/FridgeChef">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh7975&repo=FridgeChef&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="FridgeChef" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/venkatesh7975/Tetris">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh7975&repo=Tetris&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="Tetris" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/venkatesh7975/React-Autocomplete-Search-Bar-with-Caching">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh7975&repo=React-Autocomplete-Search-Bar-with-Caching&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="React Search" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/venkatesh7975/mongo-notes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh7975&repo=mongo-notes&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="100%" alt="Mongo Notes" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-### Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkatesh7975/venkatesh7975/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkatesh7975/venkatesh7975/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venkatesh7975/venkatesh7975/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+| Project | Description | Role/Stack |
+| --- | --- | --- |
+| [**FridgeChef**](https://github.com/venkatesh7975/FridgeChef) | Smart culinary app built to inspire cooking based on pantry availability. Live at [fridge-chef-a8k7.vercel.app](https://fridge-chef-a8k7.vercel.app/) | **TypeScript, React** |
+| [**Tetris Clone**](https://github.com/venkatesh7975/Tetris) | Classic Tetris implementation with smooth mechanics. Live at [tetris.bytexl.live](https://tetris.bytexl.live/) | **JavaScript Canvas** |
+| [**React-Search**](https://github.com/venkatesh7975/React-Autocomplete-Search-Bar-with-Caching) | Advanced autocomplete search bar featuring smart caching mechanics. | **React, Caching** |
+| [**mongo-notes**](https://github.com/venkatesh7975/mongo-notes) | Dedicated backend repository using non-relational database architectures. | **MongoDB, Node.js** |
